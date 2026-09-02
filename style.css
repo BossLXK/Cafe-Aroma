@@ -227,6 +227,7 @@ a {
     margin-right: 8px;
     margin-top: 10px;
     margin-left: 10px;
+    margin-bottom: 5px;
     width: 70px;
     height: 20px;
 }
@@ -236,7 +237,7 @@ a {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
 }
 .categoriasTitulo {
-    margin-top: -30px;
+    margin-top: 0px;
     margin-bottom: 10px;
 }
 .categoriasEFiltros {
